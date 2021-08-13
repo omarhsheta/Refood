@@ -16,16 +16,16 @@ The idea for this site is to allow businesses to advertise products that are goi
 ## Technologies / Dependencies
 ### Frontend / GUI
 
-Axios
-Vuejs
-Vue-Router
-Vuesax 3 UI component framework
+- Axios
+- Vuejs
+- Vue-Router
+- Vuesax 3 UI component framework
 
 ### Backend / server
 
-Spring Boot (JPA, Security, REST)
-H2 Database Engine
-MariaDB
+- Spring Boot (JPA, Security, REST)
+- H2 Database Engine
+- MariaDB
 ## How to use
 You may follow this link to register https://csse-s302g9.canterbury.ac.nz/prod/#/register
 For additional guidance, please refer to the user manual attached below.
