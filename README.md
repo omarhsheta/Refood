@@ -3,15 +3,14 @@ Welcome to our waste food web app!
 The idea for this site is to allow businesses to advertise products that are going to be wasted, to help reduce the amount of wasted food and hopefully reduce it's impact on the environment.
 ## Contributors
 
-SENG302 teaching team
-Ayub Momahamed
-Dan Bublik
-Jackie Chen
-Kye Oldham
-Lachlan Reynolds
-Omar Sheta
-Ronan Avery
-David Frost (Resigned)
+- SENG302 teaching team
+- Ayub Momahamed
+- Dan Bublik
+- Jackie Chen
+- Kye Oldham
+- Lachlan Reynolds
+- Omar Sheta
+- Ronan Avery
 
 
 ## Technologies / Dependencies
