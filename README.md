@@ -15,7 +15,6 @@ The idea for this site is to allow businesses to advertise products that are goi
 
 ## Technologies / Dependencies
 ### Frontend / GUI
-
 - Axios
 - Vuejs
 - Vue-Router
@@ -29,4 +28,5 @@ The idea for this site is to allow businesses to advertise products that are goi
 ## How to use
 You may follow this link to register https://csse-s302g9.canterbury.ac.nz/prod/#/register
 For additional guidance, please refer to the user manual attached below.
-[ReFood User Manual.pdf](https://github.com/omarhsheta/Refood/files/6957683/ReFood.User.Manual.pdf)
+[ReFood_User_Manual.pdf](https://github.com/omarhsheta/Refood/files/7141631/ReFood_User_Manual.pdf)
+
